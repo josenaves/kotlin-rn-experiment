@@ -51,3 +51,7 @@ You can also do this using the command line.
 
 ```
 
+After that, you will be able to navigate between those two screens.
+
+![Kotlin activity](images/kotlin.png)  ![React Native View](images/react-native.png)
+
